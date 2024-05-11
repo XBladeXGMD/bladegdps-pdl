@@ -14,9 +14,9 @@ header.dark {
     color-scheme: dark;
     --color-background: #1c1b1f;
     --color-on-background: white;
-    --color-background-hover: #27262c;
+    --color-background-hover: #b83b3b;
     --color-on-background-hover: white;
-    --color-primary: #a13d30;
+    --color-primary: #b83b3b;
     --color-primary-disabled: #3c1f1f;
     --color-on-primary: white;
     --color-error: #de0000;
