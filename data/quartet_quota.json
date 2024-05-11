@@ -1,0 +1,18 @@
+{
+    "id": 57436521,
+    "name": "Quartet Quota",
+    "author": "HamsterPlayz",
+    "creators": ["HamsterPlayz", "Pixelo"],
+    "verifier": "HamsterPlayz",
+    "verification": "https://www.youtube.com/watch?v=_zAm6R1-2xY",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Blade",
+            "link": "https://www.youtube.com/watch?v=IISSf4R-YtQ",
+            "percent": 01:04:32.908,
+            "hz": 240
+        }
+    ]
+}
