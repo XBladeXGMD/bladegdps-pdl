@@ -5,8 +5,18 @@
         "link": "https://www.youtube.com/@xbladexgmd"
     },
     {
+        "role": "admin",
+        "name": "cinderrblock",
+        "link": "https://www.twitter.com/@cndrblck0329"
+    },
+    {
+        "role": "admin",
+        "name": "Rae",
+        "link": "https://www.youtube.com/@raezori"
+    },
+    {
         "role": "dev",
-        "name": "List Coder",
+        "name": "Prometheus",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]
