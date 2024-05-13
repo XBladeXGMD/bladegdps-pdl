@@ -1,0 +1,18 @@
+{
+    "id": 655,
+    "name": "Thomas Jefferson",
+    "author": "Rae",
+    "creators": ["Rae"],
+    "verifier": "Rae",
+    "verification": "https://www.youtube.com/watch?v=dhQIhUeDSww",
+    "percentToQualify": "100",
+    "password": "Free copy",
+    "records": [
+        {
+            "user": "XBladeXGMD",
+            "link": "https://cdn.discordapp.com/attachments/1238961212298100828/1239645075877925015/thomas_jefferson.mp4?ex=6643acf1&is=66425b71&hm=469d8afae9e3e90ce989a89a9cfe6a2195957fe93e5e0b394a1bc6a187656ecf&",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
