@@ -1,0 +1,18 @@
+{
+    "id": 650,
+    "name": "The Haunted Hall",
+    "author": "HamsterPlayz",
+    "creators": ["HamsterPlayz"],
+    "verifier": "HamsterPlayz",
+    "verification": "https://youtu.be/2GtuMm2LiS8",
+    "percentToQualify": "100",
+    "password": "Free copy",
+    "records": [
+        {
+            "user": "XBladeXGMD",
+            "link": "https://youtu.be/2GtuMm2LiS8",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
